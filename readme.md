@@ -7,8 +7,8 @@
     <img  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">  
      <p></p>HyperText Markup Language</p>
     <img  height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <p>Cascading Style Sheets</p>
-    <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <p>JavaScript</p>
+    <img height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <p>Uma linguagem de programação </p>
 </div>
 
 <img  src="img/tesla.png" alt="Projeto cuncluído">

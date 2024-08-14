@@ -110,3 +110,7 @@ button {
     left: -50%;
     transition: 1.5s;
 }
+
+.model3, .sub-titulo3 {
+    color: red;
+}
